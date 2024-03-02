@@ -1,3 +1,0 @@
-C:/Users/alexs/CLionProjects/generator-passwords/cmake-build-debug/CMakeFiles/generator_passwords.dir
-C:/Users/alexs/CLionProjects/generator-passwords/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/alexs/CLionProjects/generator-passwords/cmake-build-debug/CMakeFiles/rebuild_cache.dir
